@@ -51,6 +51,8 @@
      <Compile Include="Assets\Scripts\First-Person Controller\HUD.cs" />
      <Compile Include="Assets\Scripts\First-Person Controller\MouseLook.cs" />
      <Compile Include="Assets\Scripts\First-Person Controller\PlatformInputController.cs" />
+     <Compile Include="Assets\Scripts\First-Person Controller\SyncMaintner.cs" />
+     <Compile Include="Assets\Scripts\First-Person Controller\SyncPlay.cs" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

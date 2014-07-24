@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\BoatBoat\BoatBoat\Assets\_Scripts\HUD.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\First-Person Controller\HUD.cs">
     <Files>
-      <File FileName="..\BoatBoat\BoatBoat\BoatBoat.sln" Line="1" Column="1" />
-      <File FileName="..\BoatBoat\BoatBoat\Assets\_Scripts\HUD.cs" Line="17" Column="54" />
+      <File FileName="Assets\Scripts\First-Person Controller\HUD.cs" Line="44" Column="73" />
+      <File FileName="Assets\Scripts\First-Person Controller\SyncMaintner.cs" Line="39" Column="43" />
+      <File FileName="Assets\Scripts\First-Person Controller\SyncPlay.cs" Line="26" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
